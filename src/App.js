@@ -51,7 +51,9 @@ class QuoteBox extends React.Component {
           </div>
           <div id="author">-{this.props.autor}</div>
           <div id="new-quote">
-            <button onClick={this.props.novyCitat}>Generate New Quote</button>
+            <button onClick={this.props.novyCitat}>
+              Generate New Quote???
+            </button>
           </div>
           <div>
             <a
