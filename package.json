@@ -1,6 +1,6 @@
 {
   "name": "1-random-quote-generator",
-  "homepage": "https://korinekj.github.io/test-github-pages",
+  "homepage": "https://korinekj.github.io/random-quote-generator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
